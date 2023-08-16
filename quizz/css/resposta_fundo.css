@@ -1,0 +1,16 @@
+.fundo2{
+    background-color: #c5fdca;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 10px 10px lightgray;
+    width: 900px;
+    height: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fundo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

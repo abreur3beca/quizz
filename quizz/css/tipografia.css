@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Preahvihear&display=swap');
+
+
+.titulo{
+    text-align: center;
+    font-size:larger;
+    font-family:Anton;
+}
+.perguntas{
+    text-align: center;
+    font-size: medium;
+    font-family: Preahvihear;
+}
